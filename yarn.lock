@@ -1891,10 +1891,10 @@
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.1.tgz#8da5c6530915653f3a1f38fd5f101d8c3f8079c5"
   integrity sha512-+iTbntw2IZPb/anVDbypzfQa+ay64MW0Zo8aJ8gZPWMMK6/OubMVb6lUPMagqjOPnmtauXnFCACVl3O7ogjeqQ==
 
-"@types/archiver@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/archiver/-/archiver-3.0.0.tgz#c0a53e0ed3b7aef626ce683d081d7821d8c638b4"
-  integrity sha512-orghAMOF+//wSg4ru2znk6jt0eIPvKTtMVLH7XcYcjbcRyAXRClDlh27QVdqnAvVM37yu9xDP6Nh7egRhNr8tQ==
+"@types/archiver@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@types/archiver/-/archiver-3.1.0.tgz#0d5bd922ba5cf06e137cd6793db7942439b1805e"
+  integrity sha512-nTvHwgWONL+iXG+9CX+gnQ/tTOV+qucAjwpXqeUn4OCRMxP42T29FFP/7XaOo0EqqO3TlENhObeZEe7RUJAriw==
   dependencies:
     "@types/glob" "*"
 
@@ -2062,6 +2062,11 @@
   version "10.17.16"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.16.tgz#ee96ddac1a38d98d2c8a71c7df0cdad5758e8993"
   integrity sha512-A4283YSA1OmnIivcpy/4nN86YlnKRiQp8PYwI2KdPCONEBN093QTb0gCtERtkLyVNGKKIGazTZ2nAmVzQU51zA==
+
+"@types/node@^13.7.1":
+  version "13.7.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.4.tgz#76c3cb3a12909510f52e5dc04a6298cdf9504ffd"
+  integrity sha512-oVeL12C6gQS/GAExndigSaLxTrKpQPxewx9bOcwfvJiJge4rr7wNaph4J+ns5hrmIV2as5qxqN8YKthn9qh0jw==
 
 "@types/nodeunit@^0.0.30":
   version "0.0.30"
@@ -11593,7 +11598,7 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^3.3.3, typescript@~3.8.2:
+typescript@^3.3.3, typescript@^3.7.5, typescript@~3.8.2:
   version "3.8.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.2.tgz#91d6868aaead7da74f493c553aeff76c0c0b1d5a"
   integrity sha512-EgOVgL/4xfVrCMbhYKUQTdF37SQn4Iw73H5BgCrF1Abdun7Kwy/QZsE/ssAy0y4LxBbvua3PIbFsbRczWWnDdQ==
